@@ -28,3 +28,4 @@ connectDB();
 app.listen(PORT, () => {
   console.log(`server running on the port ${PORT}`);
 });
+console.log('____________________________')
